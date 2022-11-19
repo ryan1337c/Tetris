@@ -1,2 +1,3 @@
 # Tetris
-Tetris Recreation
+Tetris Recreation using Java
+
